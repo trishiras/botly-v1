@@ -1,4 +1,4 @@
-# **Botly**  
+# **botly-v1**  
 
 A Docker image for running [Ollama](https://ollama.com/) and [Open WebUI](https://github.com/open-webui/open-webui) together. This setup provides an interactive AI environment with an intuitive web interface.  
 
