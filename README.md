@@ -42,8 +42,25 @@ View live logs from the running container:
 sudo docker-compose logs -f
 ```  
 
+
+## **Demo Screenshots**
+Below are some screenshots showcasing the application in action:
+
+
+
+### Start
+![Start ](screenshots/start.png)
+
+<!-- ### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### User Profile
+![User Profile](screenshots/profile.png) -->
+
+
 ## **License**  
 This project is open-source and available under the [MIT License](LICENSE).  
+
 
 ---
 
