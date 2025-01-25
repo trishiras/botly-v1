@@ -43,7 +43,7 @@ sudo docker-compose logs -f
 ```  
 
 
-## **Demo Screenshots**
+## **Demonstration Screenshots**
 Below are some screenshots showcasing the application in action:
 
 
@@ -51,11 +51,19 @@ Below are some screenshots showcasing the application in action:
 ### Start
 ![Start ](screenshots/start.png)
 
-<!-- ### Dashboard
-![Dashboard](screenshots/dashboard.png)
 
-### User Profile
-![User Profile](screenshots/profile.png) -->
+### User Registration
+![User Registration](screenshots/user_registration.png)
+
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+
+### Demo Chat
+![Demo Chat](screenshots/demo_chat_1.png)
+![Demo Chat](screenshots/demo_chat_2.png)
+![Demo Chat](screenshots/demo_chat_3.png)
 
 
 ## **License**  
